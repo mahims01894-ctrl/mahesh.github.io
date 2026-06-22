@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background:#eeeeee;
+    font-family:Arial;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav a{
+    margin:20px;
+    text-decoration:none;
+    color:black;
+}
+
+.card{
+    width:70%;
+    margin:30px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px gray;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
